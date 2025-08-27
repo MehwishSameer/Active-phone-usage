@@ -1,6 +1,6 @@
 # Active Phone Usage Detection
 
-This project detects **active phone usage vs POS device usage** using deep learning and computer vision techniques.  
+This project detects **active phone usage** using deep learning and computer vision techniques.  
 It combines **YOLOv8 object detection** with a **K-Fold trained MobileNet classifier** and **MediaPipe hand tracking** to achieve robust classification.
 
 ---
