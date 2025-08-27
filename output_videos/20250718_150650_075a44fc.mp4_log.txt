@@ -1,0 +1,8 @@
+Device detected (confidence adjusted with hands) at timestamps (s):
+0.00
+8.42
+9.42
+10.42
+11.42
+
+Total detections: 5
